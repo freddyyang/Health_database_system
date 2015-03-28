@@ -1,0 +1,2 @@
+# Health_database_system
+The goal of this project is to build a real world database application for a health system. The software will have interface that allows the user to interact with the program. The user can then view, edit, and do some other command to the database through the interface. The project describes a real world problem and is implemented in the Java Language with Java Database Connectivity (JDBC) database API.
