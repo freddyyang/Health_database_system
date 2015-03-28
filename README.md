@@ -3,4 +3,4 @@ The goal of this project is to build a real world database application for a hea
 
 The designing of Health Information System is strictly following general database design process: requirements analysis, conceptual database design, logical database design, schema refinement, physical database design, and application and security design. This process results in an entity relational model, a schema implementation (in MySQL) and a programed software (in Java). Health Information System will be able to import the data from an xml or a sql file and output them into the created existing database. The software system then provides three interfaces ”Patient”, ”Doctor”, and ”Administrator”. The three interfaces are meant for the interactive users ­ one for patients, one for doctors and one for administrators who will perform several queries on the data.
 
-![Alt text](/github.com/freddyyang/Health_database_system/blob/master/Example_Images/ER_model.png?raw=true "Optional Title")
+![Alt text](http://github.com/freddyyang/Health_database_system/blob/master/Example_Images/ER_model.png?raw=true "Optional Title")
