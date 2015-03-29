@@ -1,9 +1,5 @@
 /*
-
-Danyu Yang
-Freddy Yang
-CS174 Project 2
-
+    Schema Design
 */
 
 
