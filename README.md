@@ -16,4 +16,4 @@ Example of Admin Interface:
 
 ![Alt text](/Example_Images/hs_admin.png?raw=true "Optional Title")
 
-For more information, please contact me directly.
+More examples are in the example folder.
