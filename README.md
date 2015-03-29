@@ -11,3 +11,9 @@ Example of Doctor Interfaces:
 
 ![Alt text](/Example_Images/hs_doctor1.png?raw=true "Optional Title")
 ![Alt text](/Example_Images/hs_doctor2.png?raw=true "Optional Title")
+
+Example of Admin Interface:
+
+![Alt text](/Example_Images/hs_admin.png?raw=true "Optional Title")
+
+For more information, please contact me directly.
